@@ -1,0 +1,35 @@
+html{
+  font-size: 10px;
+  font-family: "Belanosima", sans-serif;
+  background-color: rgb(2, 15, 11);
+}
+h1{font-size: 60px;
+  margin: 0;
+  padding: 20px 0;
+  text-align: center;
+  color: rgb(72, 118, 146);
+  text-shadow: 5px 5px 1px rgb(11, 22, 73);
+}
+p,
+li{
+  margin: 0 20px 0 50px;
+  font-size: 20px;
+  line-height: 2;
+  letter-spacing: 1px;
+  color: rgb(167, 224, 150);
+}
+  
+body{
+  width: 1000px;
+  margin: 40px auto;
+  background-color: #8b80b925;
+  padding: 0 20px 20px 20px;
+  border: 3px solid rgb(41, 75, 26);
+}
+img{
+  margin: 10px auto;
+  width: 150px;
+  display: block;
+}
+  
+  
